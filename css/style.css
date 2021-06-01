@@ -1,0 +1,21 @@
+html,body{
+    width: 100%;
+}
+.carousel-item img{
+    height: 400px;
+}
+.container-section{
+        padding: 20px;
+}
+.manu-section img{
+    height:200px;
+}
+footer{
+    position: absolute;
+    border: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}

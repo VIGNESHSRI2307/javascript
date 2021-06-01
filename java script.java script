@@ -1,0 +1,30 @@
+Step 1: To open the vs code and creat the one HTML file.
+Step 2: To creat the basic HTML code. like vs code u type html automaticaly came basic code.
+Step 3: To change the <title> java script</title>.
+Step 4: To creat the <boby> 
+                          <!---Header Section--->
+                          <!---Body Section----->
+                          <!---Footer Section--->
+Step 5: U go to google othe website. i used microsoft edge and type the booststrap.
+Step 6: Download the booststrap and extract the file and open that css file copy the bootstrap.min.css file.
+Step 7: U came java script file and creat the one css folder paste the  boostrap.min .css file in this folder.
+Step 8: java script file ,css folder add onther one file style.css creat.
+Step 9: If go to booststrap extract file and open js file copy the bootstrap.min.jss file.
+Step 10: U came java script file and creat the one js folder paste the bootstrap.min.js file in this folder.
+Step 11: To go microsoft edge write jquery downloads  and open jquers file copy that and js folder to paste jquery-3.6.0.min.js.
+Step 12: And came java script HTML file and write command for <link rel="stylesheet" href="./css/bootstrap.main.css"/>and command <link rel="stylesheet" href="./css/style.css"/>
+Step 13: <script src="./js/jquery-3.6.0.min.js"></script>
+Step 14: <script src="./js/bootstrap.min.js"></script>
+Step 15: To bootstrap.com and serach nav-navbar choose u navbar select it and copy the code paste it java script HTML file.
+Step 16: To bootstrap.com and serach slide choose u favourt slides select it and copy the code paste
+Step 17: Change the images in the codeing.like banner1,banner2,banner3.in the the HTML FILE.
+Step 18: To resize the images like ,height:400px to write the command Css folder,style.css file write and save it.
+Step 19: Next to write body of the HTML FILE command <div><p>write some ... like i write Yamaha sepcifications </p></div>.
+Step 20: Next go to booststrap web page and searched the gird file and copy code and paste the code html file.
+Step 21: Next chanage the button oppstion like extra i used you used you choose any name.
+
+  
+
+
+
+ 
